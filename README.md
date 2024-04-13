@@ -1,4 +1,4 @@
-# PrimeDetective
+# PrimeDirective
 This is another project for the Java-Course on Codecademy.
 The scope of this project was to write a programm that creates an arraylist
 of all the prime numbers in a given array of numbers.
